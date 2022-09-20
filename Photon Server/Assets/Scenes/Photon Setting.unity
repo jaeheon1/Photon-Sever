@@ -1838,11 +1838,11 @@ MonoBehaviour:
   m_Value: 0
   m_Options:
     m_Options:
-    - m_Text: Korea
+    - m_Text: KR
       m_Image: {fileID: 0}
-    - m_Text: USA
+    - m_Text: AU
       m_Image: {fileID: 0}
-    - m_Text: Japan
+    - m_Text: JP
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2768,7 +2768,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Korea
+  m_Text: KR
 --- !u!222 &2058715015
 CanvasRenderer:
   m_ObjectHideFlags: 0
