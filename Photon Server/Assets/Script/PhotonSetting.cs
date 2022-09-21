@@ -13,6 +13,13 @@ public class PhotonSetting : MonoBehaviour
     public InputField username;
     public Dropdown region;
     //로그인의 성공여부를 반환합니다. -LoginResult
+
+    private void Awake()
+    {
+        PlayFabSettings.TitleId="2B5BE";
+    }
+
+
     public void LoginSuccess(LoginResult result)
     {
 
@@ -33,7 +40,7 @@ public class PhotonSetting : MonoBehaviour
 
         //서버 접속
 
-        PhotonNetwork.LoadLevel("Phonton Lobby");
+        PhotonNetwork.LoadLevel("Photon Lobby");
 
     }
 
@@ -42,7 +49,7 @@ public class PhotonSetting : MonoBehaviour
         Debug.Log("로그인 실패");
 
     }
-    public void SignUpSuccess(RegisterPlayFabUserRequest result)
+    public void SignUpSuccess(RegisterPlayFabUserResult result)
     {
         Debug.Log("회원가입 성공");
     }
@@ -65,13 +72,32 @@ public class PhotonSetting : MonoBehaviour
         };
 
         PlayFabClientAPI.RegisterPlayFabUser
-        {
+        (
 
             request,   // 회원 가입에 대한 유저 정보 
             SignUpSuccess,   // 회원 가입이 성공 했을때 회원 가입 성공 함수 호출 
             SignUpFailure      // 회원 가입이 실패 했을 때 회원 가입 실패 함수 호출 
 
+        );
+    }
+
+    public void Login()
+    {
+        var request = new LoginWithEmailAddressRequest
+        {
+            Email = email.text,
+            Password = password.text
         };
+
+        PlayFabClientAPI.LoginWithEmailAddress
+            (
+               request,
+               LoginSuccess,
+               LoginFailure
+
+            );
+
+
     }
 }
     
