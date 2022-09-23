@@ -15,13 +15,15 @@ public class PopUp : MonoBehaviour
     {
         if (gamePanel == null)
         { 
-
-            Instantiate(Resources.Load<GameObject>("Game Panel"));
+            //게임 페널이 아직 생성이 되지 않았다면 
+            // Resuorces 폴더에 있는 Game Panel 을 생성 합니다. 
+           gamePanel=Resources.Load<GameObject>("Game Panel");
 
 
         }
 
-        PopUp window = gamePanel.GetComponent<PopUp>();
+        GameObject obj = Instantiate(gamePanel);
+        PopUp window = obj.GetComponent<PopUp>();
         window.UpdateContent(title, message);
 
         return window;

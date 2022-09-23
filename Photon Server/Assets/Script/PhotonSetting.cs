@@ -5,9 +5,12 @@ using UnityEngine.UI;
 using PlayFab;
 using PlayFab.ClientModels;
 using Photon.Pun;
-
+using UnityEngine.EventSystems;
 public class PhotonSetting : MonoBehaviour
 {
+    EventSystem eventSystem;
+    public Selectable firstInput;
+
     public InputField email;
     public InputField password;
     public InputField username;
@@ -16,9 +19,36 @@ public class PhotonSetting : MonoBehaviour
 
     private void Awake()
     {
+        eventSystem = EventSystem.current;
+        //처음 email input Field 를 선택 하도록 설정합니다 
+        firstInput.Select();
         PlayFabSettings.TitleId="2B5BE";
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Tab) && Input.GetKey(KeyCode.LeftShift))
+        {
+            //Tab Leftshift 는 위의 Selectabel 객체를 선택합니다.
+            Selectable next = eventSystem.currentSelectedGameObject.GetComponent<Selectable>().FindSelectableOnUp();
+
+            if(next!=null)
+            {
+                next.Select();
+            }
+                            
+        }
+        else if(Input.GetKeyDown(KeyCode.Tab))
+        {
+            Selectable next = eventSystem.currentSelectedGameObject.GetComponent<Selectable>().FindSelectableOnDown();
+
+            if (next != null)
+            {
+                next.Select();
+            }
+        }
+
+    }
 
     public void LoginSuccess(LoginResult result)
     {
@@ -53,7 +83,12 @@ public class PhotonSetting : MonoBehaviour
     }
     public void SignUpSuccess(RegisterPlayFabUserResult result)
     {
-        Debug.Log("회원가입 성공");
+        PopUp.Show
+            (
+            "MEMBERSHIP/nSUCCESSFUL",
+            "Congratulations on your/nSuccessful Membership Registration"
+            );
+        
     }
 
     public void SignUpFailure(PlayFabError error)

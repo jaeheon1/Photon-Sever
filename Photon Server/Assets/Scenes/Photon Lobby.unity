@@ -244,7 +244,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.0001605287}
+  m_AnchoredPosition: {x: 0, y: 0.0010337431}
   m_SizeDelta: {x: 0, y: 300}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &246131833
@@ -285,6 +285,7 @@ GameObject:
   - component: {fileID: 386712216}
   - component: {fileID: 386712215}
   - component: {fileID: 386712214}
+  - component: {fileID: 386712217}
   m_Layer: 5
   m_Name: Lobby 3
   m_TagString: Untagged
@@ -356,7 +357,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 386712215}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 386712217}
+        m_TargetAssemblyTypeName: LobbyCount, Assembly-CSharp
+        m_MethodName: Selected
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &386712215
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -395,6 +408,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 386712212}
   m_CullTransparentMesh: 1
+--- !u!114 &386712217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 386712212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aad16e41a3f2954aac65cb12c0aafda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &396618915
 GameObject:
   m_ObjectHideFlags: 0
@@ -429,7 +454,7 @@ RectTransform:
   - {fileID: 1910224621}
   - {fileID: 1720157362}
   m_Father: {fileID: 2129378314}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -533,9 +558,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73a214968b751104d902d87576fdf651, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  connect: {fileID: 0}
-  currentRegion: {fileID: 0}
-  currentLobby: {fileID: 0}
+  connect: {fileID: 829158832}
+  currentRegion: {fileID: 882603673}
+  currentLobby: {fileID: 1262492351}
 --- !u!4 &401705825
 Transform:
   m_ObjectHideFlags: 0
@@ -583,7 +608,7 @@ RectTransform:
   m_Children:
   - {fileID: 1262492350}
   m_Father: {fileID: 2129378314}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
@@ -887,7 +912,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 829158833}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 401705824}
+        m_TargetAssemblyTypeName: PhotonManager, Assembly-CSharp
+        m_MethodName: Connect
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &829158833
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -951,17 +988,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 882603671}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1020609108}
-  m_RootOrder: 0
+  m_Father: {fileID: 2129378314}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 810, y: 0}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &882603673
@@ -1018,6 +1055,7 @@ GameObject:
   - component: {fileID: 900285662}
   - component: {fileID: 900285661}
   - component: {fileID: 900285660}
+  - component: {fileID: 900285663}
   m_Layer: 5
   m_Name: Lobby 2
   m_TagString: Untagged
@@ -1089,7 +1127,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 900285661}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 900285663}
+        m_TargetAssemblyTypeName: LobbyCount, Assembly-CSharp
+        m_MethodName: Selected
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &900285661
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1128,6 +1178,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 900285658}
   m_CullTransparentMesh: 1
+--- !u!114 &900285663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 900285658}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aad16e41a3f2954aac65cb12c0aafda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1020609107
 GameObject:
   m_ObjectHideFlags: 0
@@ -1157,10 +1219,9 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 882603672}
+  m_Children: []
   m_Father: {fileID: 2129378314}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
@@ -1525,7 +1586,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1884698259}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0.99998534
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1684,6 +1745,7 @@ GameObject:
   - component: {fileID: 1856394037}
   - component: {fileID: 1856394036}
   - component: {fileID: 1856394035}
+  - component: {fileID: 1856394038}
   m_Layer: 5
   m_Name: Lobby 1
   m_TagString: Untagged
@@ -1755,7 +1817,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1856394036}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1856394038}
+        m_TargetAssemblyTypeName: LobbyCount, Assembly-CSharp
+        m_MethodName: Selected
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1856394036
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1794,6 +1868,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1856394033}
   m_CullTransparentMesh: 1
+--- !u!114 &1856394038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1856394033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aad16e41a3f2954aac65cb12c0aafda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1876027293
 GameObject:
   m_ObjectHideFlags: 0
@@ -2215,6 +2301,7 @@ RectTransform:
   m_Children:
   - {fileID: 1669666580}
   - {fileID: 829158831}
+  - {fileID: 882603672}
   - {fileID: 1020609108}
   - {fileID: 417058743}
   - {fileID: 396618916}
