@@ -211,59 +211,59 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1552}
+      Script: {instanceID: 1626}
     - Class: 114
-      Script: {instanceID: 1558}
+      Script: {instanceID: 1632}
     - Class: 114
-      Script: {instanceID: 6318}
+      Script: {instanceID: 1746}
     - Class: 114
-      Script: {instanceID: 6476}
+      Script: {instanceID: 3686}
     - Class: 114
-      Script: {instanceID: 28664}
+      Script: {instanceID: 3766}
     - Class: 114
-      Script: {instanceID: 28668}
+      Script: {instanceID: 3778}
     - Class: 114
-      Script: {instanceID: 28674}
+      Script: {instanceID: 3896}
     - Class: 114
-      Script: {instanceID: 28678}
+      Script: {instanceID: 4558}
     - Class: 114
-      Script: {instanceID: 28682}
+      Script: {instanceID: 4824}
     - Class: 114
-      Script: {instanceID: 28688}
+      Script: {instanceID: 4928}
     - Class: 114
-      Script: {instanceID: 28690}
+      Script: {instanceID: 5104}
     - Class: 114
-      Script: {instanceID: 28708}
+      Script: {instanceID: 5176}
     - Class: 114
-      Script: {instanceID: 28712}
+      Script: {instanceID: 5666}
     - Class: 114
-      Script: {instanceID: 28726}
+      Script: {instanceID: 6226}
     - Class: 114
-      Script: {instanceID: 28728}
+      Script: {instanceID: 6246}
     - Class: 114
-      Script: {instanceID: 28732}
+      Script: {instanceID: 6266}
     - Class: 114
-      Script: {instanceID: 28734}
+      Script: {instanceID: 6664}
     - Class: 114
-      Script: {instanceID: 28742}
+      Script: {instanceID: 6742}
     - Class: 114
-      Script: {instanceID: 28744}
+      Script: {instanceID: 6818}
     - Class: 114
-      Script: {instanceID: 28754}
+      Script: {instanceID: 6868}
     - Class: 114
-      Script: {instanceID: 28756}
+      Script: {instanceID: 6996}
     - Class: 114
-      Script: {instanceID: 28758}
+      Script: {instanceID: 7026}
     - Class: 114
-      Script: {instanceID: 28764}
+      Script: {instanceID: 8582}
     - Class: 114
-      Script: {instanceID: 28770}
+      Script: {instanceID: 8882}
     - Class: 114
-      Script: {instanceID: 28774}
+      Script: {instanceID: 8934}
     - Class: 114
-      Script: {instanceID: 28782}
+      Script: {instanceID: 9042}
     - Class: 114
-      Script: {instanceID: 37502}
+      Script: {instanceID: 9104}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -310,31 +310,31 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1552}
+      Script: {instanceID: 1626}
     - Class: 114
-      Script: {instanceID: 1554}
+      Script: {instanceID: 1628}
     - Class: 114
-      Script: {instanceID: 1558}
+      Script: {instanceID: 1632}
     - Class: 114
-      Script: {instanceID: 2776}
+      Script: {instanceID: 2948}
     - Class: 114
-      Script: {instanceID: 3354}
+      Script: {instanceID: 3580}
     - Class: 114
-      Script: {instanceID: 4254}
+      Script: {instanceID: 4566}
     - Class: 114
-      Script: {instanceID: 6318}
+      Script: {instanceID: 6818}
     - Class: 114
-      Script: {instanceID: 6582}
+      Script: {instanceID: 7106}
     - Class: 114
-      Script: {instanceID: 6848}
+      Script: {instanceID: 7376}
     - Class: 114
-      Script: {instanceID: 6860}
+      Script: {instanceID: 7388}
     - Class: 114
-      Script: {instanceID: 7334}
+      Script: {instanceID: 7884}
     - Class: 114
-      Script: {instanceID: 7348}
+      Script: {instanceID: 7898}
     - Class: 114
-      Script: {instanceID: 8092}
+      Script: {instanceID: 8686}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -373,35 +373,35 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1552}
+      Script: {instanceID: 1626}
     - Class: 114
-      Script: {instanceID: 1554}
+      Script: {instanceID: 1628}
     - Class: 114
-      Script: {instanceID: 1558}
+      Script: {instanceID: 1632}
     - Class: 114
-      Script: {instanceID: 2776}
+      Script: {instanceID: 2948}
     - Class: 114
-      Script: {instanceID: 3072}
+      Script: {instanceID: 3266}
     - Class: 114
-      Script: {instanceID: 3354}
+      Script: {instanceID: 3580}
     - Class: 114
-      Script: {instanceID: 3552}
+      Script: {instanceID: 3798}
     - Class: 114
-      Script: {instanceID: 3780}
+      Script: {instanceID: 4056}
     - Class: 114
-      Script: {instanceID: 3878}
+      Script: {instanceID: 4166}
     - Class: 114
-      Script: {instanceID: 4254}
+      Script: {instanceID: 4566}
     - Class: 114
-      Script: {instanceID: 6318}
+      Script: {instanceID: 6818}
     - Class: 114
-      Script: {instanceID: 6848}
+      Script: {instanceID: 7376}
     - Class: 114
-      Script: {instanceID: 6860}
+      Script: {instanceID: 7388}
     - Class: 114
-      Script: {instanceID: 7334}
+      Script: {instanceID: 7884}
     - Class: 114
-      Script: {instanceID: 8092}
+      Script: {instanceID: 8686}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -464,85 +464,85 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1552}
+      Script: {instanceID: 1626}
     - Class: 114
-      Script: {instanceID: 1554}
+      Script: {instanceID: 1628}
     - Class: 114
-      Script: {instanceID: 1556}
+      Script: {instanceID: 1630}
     - Class: 114
-      Script: {instanceID: 1558}
+      Script: {instanceID: 1632}
     - Class: 114
-      Script: {instanceID: 1656}
+      Script: {instanceID: 1736}
     - Class: 114
-      Script: {instanceID: 1824}
+      Script: {instanceID: 1936}
     - Class: 114
-      Script: {instanceID: 2280}
+      Script: {instanceID: 2420}
     - Class: 114
-      Script: {instanceID: 2776}
+      Script: {instanceID: 2948}
     - Class: 114
-      Script: {instanceID: 3072}
+      Script: {instanceID: 3218}
     - Class: 114
-      Script: {instanceID: 3252}
+      Script: {instanceID: 3266}
     - Class: 114
-      Script: {instanceID: 3354}
+      Script: {instanceID: 3462}
     - Class: 114
-      Script: {instanceID: 3672}
+      Script: {instanceID: 3580}
     - Class: 114
-      Script: {instanceID: 3780}
+      Script: {instanceID: 3940}
     - Class: 114
-      Script: {instanceID: 4070}
+      Script: {instanceID: 4056}
     - Class: 114
-      Script: {instanceID: 4192}
+      Script: {instanceID: 4368}
     - Class: 114
-      Script: {instanceID: 4194}
+      Script: {instanceID: 4498}
     - Class: 114
-      Script: {instanceID: 4254}
+      Script: {instanceID: 4500}
     - Class: 114
-      Script: {instanceID: 4380}
+      Script: {instanceID: 4566}
     - Class: 114
-      Script: {instanceID: 4534}
+      Script: {instanceID: 4712}
     - Class: 114
-      Script: {instanceID: 4824}
+      Script: {instanceID: 4876}
     - Class: 114
-      Script: {instanceID: 5564}
+      Script: {instanceID: 5194}
     - Class: 114
-      Script: {instanceID: 5590}
+      Script: {instanceID: 5998}
     - Class: 114
-      Script: {instanceID: 5660}
+      Script: {instanceID: 6026}
     - Class: 114
-      Script: {instanceID: 6060}
+      Script: {instanceID: 6100}
     - Class: 114
-      Script: {instanceID: 6106}
+      Script: {instanceID: 6530}
     - Class: 114
-      Script: {instanceID: 6318}
+      Script: {instanceID: 6582}
     - Class: 114
-      Script: {instanceID: 6476}
+      Script: {instanceID: 6818}
     - Class: 114
-      Script: {instanceID: 6848}
+      Script: {instanceID: 6996}
     - Class: 114
-      Script: {instanceID: 6860}
+      Script: {instanceID: 7376}
     - Class: 114
-      Script: {instanceID: 6862}
+      Script: {instanceID: 7388}
     - Class: 114
-      Script: {instanceID: 7522}
+      Script: {instanceID: 7390}
     - Class: 114
-      Script: {instanceID: 7694}
+      Script: {instanceID: 8082}
     - Class: 114
-      Script: {instanceID: 7758}
+      Script: {instanceID: 8264}
     - Class: 114
-      Script: {instanceID: 8088}
+      Script: {instanceID: 8332}
     - Class: 114
-      Script: {instanceID: 8092}
+      Script: {instanceID: 8682}
     - Class: 114
-      Script: {instanceID: 8476}
+      Script: {instanceID: 8686}
     - Class: 114
-      Script: {instanceID: 8560}
+      Script: {instanceID: 9116}
     - Class: 114
-      Script: {instanceID: 8612}
+      Script: {instanceID: 9206}
     - Class: 114
-      Script: {instanceID: 8960}
+      Script: {instanceID: 9260}
     - Class: 114
-      Script: {instanceID: 26436}
+      Script: {instanceID: 9636}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -612,10 +612,22 @@ ScriptsOnlyBuild:
     className: PanelRaycaster
   - hash:
       serializedVersion: 2
+      Hash: a514227e57a18c46082fb492a6fb8038
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
+    className: ProjectileSpawner
+  - hash:
+      serializedVersion: 2
       Hash: 4d9f3379d9846c3f857ff61792c5ee3b
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.PunBasics
     className: PlayerUI
+  - hash:
+      serializedVersion: 2
+      Hash: 73e31fb3f2d8b98d7205360041909ece
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
+    className: ThrowAttack
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -628,6 +640,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 6dd3dc11942e98c0a809c81f95fc960c
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineExternalCamera
   - hash:
       serializedVersion: 2
       Hash: c656dcc13ae391b68d594cc8f9c590b0
@@ -648,6 +666,12 @@ ScriptsOnlyBuild:
     className: LayoutElement
   - hash:
       serializedVersion: 2
+      Hash: d0987ce3e9092dbe0fa30d73f333fffa
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: Grain
+  - hash:
+      serializedVersion: 2
       Hash: cba6cca6bb3290c4c00d709cf63843db
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
@@ -664,6 +688,24 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Asteroids
     className: PlayerOverviewPanel
+  - hash:
+      serializedVersion: 2
+      Hash: e05dafd9e288f2b08b6824ad7d2e4fb3
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Interactions
+    className: InteractableBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: ae20da6493a48ec6a8af7899dcb31507
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFreeLook
+  - hash:
+      serializedVersion: 2
+      Hash: e78709e690dc77916f3252ffe12b9d1f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTriggerAction
   - hash:
       serializedVersion: 2
       Hash: caa533b001ae39b864ba8425019e2268
@@ -690,6 +732,12 @@ ScriptsOnlyBuild:
     className: UnityOnMouseExitMessageListener
   - hash:
       serializedVersion: 2
+      Hash: cbae2ed2d2d53cc8f539e7cb4f29bc1f
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineCameraOffset
+  - hash:
+      serializedVersion: 2
       Hash: 3f600ad0f750f59238a91f7513b927c1
     assemblyName: PhotonUnityNetworking.dll
     namespaceName: Photon.Pun
@@ -714,6 +762,12 @@ ScriptsOnlyBuild:
     className: CurrentRoomIsVisibleProperty
   - hash:
       serializedVersion: 2
+      Hash: 0e081ebf25d574bbc886dbd0cf647cc0
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
+    className: CharacterInventory
+  - hash:
+      serializedVersion: 2
       Hash: c656dcc13ae391b68d594cc8f9c590b0
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
@@ -726,10 +780,22 @@ ScriptsOnlyBuild:
     className: DemoHubManager
   - hash:
       serializedVersion: 2
+      Hash: 6225eb0973ab0af667bc5f9d1b1b18de
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineCollider
+  - hash:
+      serializedVersion: 2
       Hash: ba160f8fe96116c81151a9a24d7d9f4f
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
     className: RoomListCell
+  - hash:
+      serializedVersion: 2
+      Hash: bd50beb95120324d8c4e8386692b6e82
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBlenderSettings
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -804,6 +870,12 @@ ScriptsOnlyBuild:
     className: PropertyListenerBase
   - hash:
       serializedVersion: 2
+      Hash: a1f19ad47d3094e235f21b74dfc423a8
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessLayer
+  - hash:
+      serializedVersion: 2
       Hash: 87207d40b89ca632396b05b3cb1e69b0
     assemblyName: PhotonUnityNetworking.Utilities.dll
     namespaceName: Photon.Pun.UtilityScripts
@@ -838,6 +910,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: UIManagerTech
+  - hash:
+      serializedVersion: 2
+      Hash: c8f1a224e0a43adc56c91864de822dd3
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineVirtualCamera
   - hash:
       serializedVersion: 2
       Hash: 46a296a078af6e2a02857aa18e9cdf2b
@@ -894,10 +972,22 @@ ScriptsOnlyBuild:
     className: UnityMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePipeline
+  - hash:
+      serializedVersion: 2
       Hash: 0927e41b46e1bd11671f9b5adda4b832
     assemblyName: PhotonUnityNetworking.dll
     namespaceName: Photon.Pun
     className: PhotonRigidbody2DView
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineHardLookAt
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -912,10 +1002,28 @@ ScriptsOnlyBuild:
     className: CoroutineRunner
   - hash:
       serializedVersion: 2
+      Hash: 61b9d9b6f4b6a222dfea8b131b3d3227
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: ChromaticAberration
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestRunner.Utils
     className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: a648c58913dd6095ce8cfd8be514a4ee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PhotonControl
+  - hash:
+      serializedVersion: 2
+      Hash: 6479cf118ab0140f10311a9f6120bf97
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.UI
+    className: HealthMonitor
   - hash:
       serializedVersion: 2
       Hash: d7f7bc402888d42a0dbb080693e6863c
@@ -966,6 +1074,18 @@ ScriptsOnlyBuild:
     className: OfflineModeProperty
   - hash:
       serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3d132aabc46d98f0e43057dac32ab056
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
+    className: GameManager
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1008,6 +1128,18 @@ ScriptsOnlyBuild:
     className: ToggleGroup
   - hash:
       serializedVersion: 2
+      Hash: e581360c109616a7080a7ccf7b01fb44
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
+    className: PingPongTranslate
+  - hash:
+      serializedVersion: 2
+      Hash: b639d97cb780d0d99a2bfb3ad1935732
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineMixingCamera
+  - hash:
+      serializedVersion: 2
       Hash: 69415240821be7986b27e72bf9609a30
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -1027,9 +1159,27 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Dypsloom.Shared.Utility.dll
+    namespaceName: Dypsloom.Shared.Utility
+    className: PoolManager
+  - hash:
+      serializedVersion: 2
+      Hash: f2baf96e9b15b9cd0c072f4b83e7e8e3
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
+    className: Projectile
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnMouseDragMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: a53651ee3996fbba20dfe0fce02f0b23
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: AutoExposure
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1042,6 +1192,18 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.SlotRacer.Utils
     className: BezierCurve
+  - hash:
+      serializedVersion: 2
+      Hash: d72f6fdfacb660911e0886ebfc0f0803
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Camera
+    className: Billboard
+  - hash:
+      serializedVersion: 2
+      Hash: e17c34ee95db768bde503c753af0042a
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
+    className: SwingAttack
   - hash:
       serializedVersion: 2
       Hash: c656dcc13ae391b68d594cc8f9c590b0
@@ -1062,6 +1224,18 @@ ScriptsOnlyBuild:
     className: ContentSizeFitter
   - hash:
       serializedVersion: 2
+      Hash: 6ff1c52123c50b3d73f35cd0e2e65dfd
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineSmoothPath
+  - hash:
+      serializedVersion: 2
+      Hash: 96147d5e9b2cc94150b6a58a30e612c4
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
+    className: MultiStateDamageable
+  - hash:
+      serializedVersion: 2
       Hash: 2574ac7d50617d23cdefe4ad22f5e1ad
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1074,16 +1248,40 @@ ScriptsOnlyBuild:
     className: CurrentRoomPlayerCountProperty
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePixelPerfect
+  - hash:
+      serializedVersion: 2
       Hash: 2574ac7d50617d23cdefe4ad22f5e1ad
     assemblyName: Unity.VisualScripting.Flow.dll
     namespaceName: Unity.VisualScripting
     className: ScriptMachine
   - hash:
       serializedVersion: 2
+      Hash: c465529923e4c5cf1eaceac95af94aa1
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
+    className: TypeDamageable
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSelectMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 2a93c1d8330755e700af6b05610419a8
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
+    className: Inventory
+  - hash:
+      serializedVersion: 2
+      Hash: ec74a4195fe91829ec9864c0ecf4dfc8
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Character
+    className: CharacterInteractor
   - hash:
       serializedVersion: 2
       Hash: a4bb86bc8653964030c0be74b1a09082
@@ -1104,6 +1302,18 @@ ScriptsOnlyBuild:
     className: BaseInput
   - hash:
       serializedVersion: 2
+      Hash: a593de54922c209b0bcf841817ce3395
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Character
+    className: CharacterDamageable
+  - hash:
+      serializedVersion: 2
+      Hash: c7b04dab0b9fc7999c2dc2290eceda3c
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Character
+    className: Character
+  - hash:
+      serializedVersion: 2
       Hash: 632731657c90f101a2dca0a2b7a6245c
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
@@ -1122,6 +1332,12 @@ ScriptsOnlyBuild:
     className: UnityOnControllerColliderHitMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 1cdde0c3d8008dfe81d27e4c955d4fe7
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFramingTransposer
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: Photon.Chat.UtilityScripts
@@ -1132,6 +1348,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 71f7f12b8d0f4fd73590db8bcb6d453c
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: Bloom
   - hash:
       serializedVersion: 2
       Hash: fdad590bc12986504a51a5c2e136c871
@@ -1212,10 +1434,28 @@ ScriptsOnlyBuild:
     className: LayoutElementMatchSize
   - hash:
       serializedVersion: 2
+      Hash: 75e15387d76744801fbcf5d8922cef7a
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
+    className: MovingPlatform
+  - hash:
+      serializedVersion: 2
       Hash: aba7b2852ef61d175dd9602e7723d5e5
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: 7e6ed836cbaa230e56d6a2bbae1b9bb5
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessEffectSettings
+  - hash:
+      serializedVersion: 2
+      Hash: e6d75f1a9bc0c6f7085df0baa077e688
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineGroupComposer
   - hash:
       serializedVersion: 2
       Hash: c656dcc13ae391b68d594cc8f9c590b0
@@ -1302,6 +1542,18 @@ ScriptsOnlyBuild:
     className: PhysicsRaycaster
   - hash:
       serializedVersion: 2
+      Hash: 1e3d6222ff533d213aab144eb854a53b
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineTouchInputMapper
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
+  - hash:
+      serializedVersion: 2
       Hash: 0fb27be807aa299702f28ad0bcad1f46
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1314,22 +1566,34 @@ ScriptsOnlyBuild:
     className: RectMask2D
   - hash:
       serializedVersion: 2
-      Hash: 1aec3137280638278bc9bcbe5b3bc1b3
-    assemblyName: PhotonUnityNetworking.Demos.dll
-    namespaceName: Photon.Pun.Demo.Cockpit
-    className: PunCockpitEmbed
-  - hash:
-      serializedVersion: 2
       Hash: 87ad3705a58f19c47136728d4a6e9c47
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_Settings
   - hash:
       serializedVersion: 2
+      Hash: 1aec3137280638278bc9bcbe5b3bc1b3
+    assemblyName: PhotonUnityNetworking.Demos.dll
+    namespaceName: Photon.Pun.Demo.Cockpit
+    className: PunCockpitEmbed
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnJointBreak2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 65d85595dbaa2c7515a8ba3872a2aff1
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Camera
+    className: CameraTransition
+  - hash:
+      serializedVersion: 2
+      Hash: dbfb4270852b0008a423a7418d9de4cf
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineHardLockToTarget
   - hash:
       serializedVersion: 2
       Hash: 2574ac7d50617d23cdefe4ad22f5e1ad
@@ -1344,10 +1608,34 @@ ScriptsOnlyBuild:
     className: DocLinkButton
   - hash:
       serializedVersion: 2
+      Hash: 56df1fa7cea034df9863fe5a24200a32
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTargetGroup
+  - hash:
+      serializedVersion: 2
       Hash: 6980e81ddc615a861309d2d659cc3760
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 23e212efbf8590948f39eb57f46f3177
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
+    className: ItemDefinition
+  - hash:
+      serializedVersion: 2
+      Hash: af93f9c42e90877a9ba31e37adfd900c
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: MotionBlur
+  - hash:
+      serializedVersion: 2
+      Hash: 3f351562c1214c9a2673f475488e7023
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
+    className: CrystalInteractableBehavior
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1374,6 +1662,18 @@ ScriptsOnlyBuild:
     className: ToggleExpand
   - hash:
       serializedVersion: 2
+      Hash: c80bc562de10fdbf8b2e9bcb89d80421
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineCollisionImpulseSource
+  - hash:
+      serializedVersion: 2
+      Hash: 380d3ba99e2d836ad5d66bded133d128
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePOV
+  - hash:
+      serializedVersion: 2
       Hash: d2a2698b314a20912af1eb2b1758dc90
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
@@ -1384,6 +1684,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit.Forms
     className: LoadLevelUIForm
+  - hash:
+      serializedVersion: 2
+      Hash: 63d7b9b64a11859f416d72ba9a3c3fec
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: ScreenSpaceReflections
   - hash:
       serializedVersion: 2
       Hash: e7f4e9cb5468a346609dfdb36da26dcc
@@ -1416,6 +1722,12 @@ ScriptsOnlyBuild:
     className: ThirdPersonUserControl
   - hash:
       serializedVersion: 2
+      Hash: d5630f96bd5a6a6eed7e1754c3fb8703
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessVolume
+  - hash:
+      serializedVersion: 2
       Hash: c656dcc13ae391b68d594cc8f9c590b0
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
@@ -1432,6 +1744,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.SlotRacer
     className: SlotRacerSplashScreen
+  - hash:
+      serializedVersion: 2
+      Hash: bd543bad7f9f6262f10595aadb130d22
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineComposer
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1452,6 +1770,24 @@ ScriptsOnlyBuild:
     className: GridLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: a1cc011b95a8cdffb9a8c3d68bae12c0
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
+    className: Rotator
+  - hash:
+      serializedVersion: 2
+      Hash: 4a639215e29265dd99e4fed19e3fa9f4
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBlendListCamera
+  - hash:
+      serializedVersion: 2
+      Hash: d6fc8d3165070298511ec776ea575626
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessResources
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Procedural
@@ -1468,6 +1804,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Data
+  - hash:
+      serializedVersion: 2
+      Hash: ac6acd886c54c48c599ab5fed5781ea7
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: AmbientOcclusion
   - hash:
       serializedVersion: 2
       Hash: 24f79094aff162c9aa69c31d64d777d3
@@ -1494,10 +1836,28 @@ ScriptsOnlyBuild:
     className: GameVersionProperty
   - hash:
       serializedVersion: 2
+      Hash: ab42766c335c2b762a6a576707eabeb3
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.UI
+    className: ItemHotbarSlotBox
+  - hash:
+      serializedVersion: 2
+      Hash: 694d20920c0e41f567e119f7159a3644
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePath
+  - hash:
+      serializedVersion: 2
       Hash: ab039a385ef4459756519a3fe91dccc6
     assemblyName: PhotonUnityNetworking.Utilities.dll
     namespaceName: Photon.Pun.UtilityScripts
     className: SmoothSyncMovement
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine.PostFX
+    className: CinemachineVolumeSettings
   - hash:
       serializedVersion: 2
       Hash: 77aaaaa51f7a8d8ff333a879741e47d2
@@ -1548,10 +1908,22 @@ ScriptsOnlyBuild:
     className: HorizontalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: e98971c6fb4db4c7eff3d2edde99a3d4
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
+    className: EventOnXEnemyKills
+  - hash:
+      serializedVersion: 2
       Hash: 55fd795e51da61232a17e9ce0af59f52
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Asteroids
     className: Spaceship
+  - hash:
+      serializedVersion: 2
+      Hash: e26962eb14fe8a075fcdb67d98dce5a2
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.UI
+    className: ItemHotbar
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1572,6 +1944,30 @@ ScriptsOnlyBuild:
     className: TMP_FontAsset
   - hash:
       serializedVersion: 2
+      Hash: e82c0521cdfe8cb6a168ef7208a98d4a
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: Vignette
+  - hash:
+      serializedVersion: 2
+      Hash: 66baea36b1575c3add91cdfe3ea7941f
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
+    className: Item
+  - hash:
+      serializedVersion: 2
+      Hash: f542c1afca5bb4022f91fdda19b8d622
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: DepthOfField
+  - hash:
+      serializedVersion: 2
+      Hash: ab55c9e8fd47fab55b6d40d501fa6088
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
+    className: ConsumableItem
+  - hash:
+      serializedVersion: 2
       Hash: 2163458cae41cb1735c8b06fc34a9582
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
@@ -1582,6 +1978,18 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
     className: CountOfPlayersInRoomProperty
+  - hash:
+      serializedVersion: 2
+      Hash: 129b4a1556fb5a73c1426060ec61a838
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
+    className: AutomaticProjectileSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 2e4583203d9cb8bcdae62461142b3c3d
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
+    className: EquippableItem
   - hash:
       serializedVersion: 2
       Hash: d1f07c9e64b7817e6271f80bb03de25f
@@ -1606,6 +2014,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Procedural
     className: IngameControlPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 15882a52798c275361cd0a3ada984ec5
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineDollyCart
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -1644,6 +2058,12 @@ ScriptsOnlyBuild:
     className: SplineWalker
   - hash:
       serializedVersion: 2
+      Hash: 4851220ea99c9881154e283da0e85986
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
+    className: EnableDelay
+  - hash:
+      serializedVersion: 2
       Hash: 2574ac7d50617d23cdefe4ad22f5e1ad
     assemblyName: Unity.VisualScripting.State.dll
     namespaceName: Unity.VisualScripting
@@ -1656,10 +2076,28 @@ ScriptsOnlyBuild:
     className: Launcher
   - hash:
       serializedVersion: 2
+      Hash: d4a493bb4307ddafb51da21aff3cd832
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine.PostFX
+    className: CinemachinePostProcessing
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Procedural
     className: Cluster
+  - hash:
+      serializedVersion: 2
+      Hash: 2ce2187bbae6f802011f568630bd3d1f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineOrbitalTransposer
+  - hash:
+      serializedVersion: 2
+      Hash: 4491cae8fb37804f74731d2f2d5631db
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
+    className: ReturnToPoolDelay
   - hash:
       serializedVersion: 2
       Hash: c0e1b0d604911159b3b950ff47976845
@@ -1668,10 +2106,22 @@ ScriptsOnlyBuild:
     className: PhotonHandler
   - hash:
       serializedVersion: 2
+      Hash: b8b987acdf834b97f5ec502776f06870
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
+    className: ItemPickup
+  - hash:
+      serializedVersion: 2
       Hash: b25c2463ba9144686d18d7707733226b
     assemblyName: Assembly-CSharp.dll
     namespaceName: Photon.Chat.Demo
     className: NamePickGui
+  - hash:
+      serializedVersion: 2
+      Hash: 62824bb9557c7e987502f2fbd2a26819
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBrain
   - hash:
       serializedVersion: 2
       Hash: 80d2851602cb4bcb6f559596c5eb955b
@@ -1692,10 +2142,34 @@ ScriptsOnlyBuild:
     className: CanvasScaler
   - hash:
       serializedVersion: 2
+      Hash: df21ffd1864551a3e43410f28754a73e
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineConfiner
+  - hash:
+      serializedVersion: 2
+      Hash: dbfb4270852b0008a423a7418d9de4cf
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineSameAsFollowTarget
+  - hash:
+      serializedVersion: 2
+      Hash: b7cc936ae80964257cc39ce09934d9f1
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
+    className: NicePenguin
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: AnimatorMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 2792936179724025482dc04d68a47ca7
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineClearShot
   - hash:
       serializedVersion: 2
       Hash: cf9f5cf2c3145a37ac07f00e50e460f9
@@ -1704,10 +2178,22 @@ ScriptsOnlyBuild:
     className: AspectRatioFitter
   - hash:
       serializedVersion: 2
+      Hash: 14b38543bcf6ed5af8e39067f05696ab
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Camera
+    className: CameraController
+  - hash:
+      serializedVersion: 2
       Hash: 760787567e1b60d64a3e421ab83ee14a
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: c647f349ebfaa423adfcd7bd84931630
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
+    className: PingPongScale
   - hash:
       serializedVersion: 2
       Hash: a8e4bc52348c9279d138a27b5a850d5b
@@ -1782,6 +2268,12 @@ ScriptsOnlyBuild:
     className: CurrentRoomNameProperty
   - hash:
       serializedVersion: 2
+      Hash: c0201dbecd85f700bcdff493a272631d
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineImpulseSource
+  - hash:
+      serializedVersion: 2
       Hash: 8e6ceabfd38a184413d69b7db56c89cc
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
@@ -1792,6 +2284,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.PunBasics
     className: PlayerNameInputField
+  - hash:
+      serializedVersion: 2
+      Hash: a66794b62dbf044668a5f102bb7908c2
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineImpulseListener
   - hash:
       serializedVersion: 2
       Hash: c656dcc13ae391b68d594cc8f9c590b0
@@ -1890,6 +2388,12 @@ ScriptsOnlyBuild:
     className: LobbyCount
   - hash:
       serializedVersion: 2
+      Hash: d227987243593b32ae57394d06018643
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFixedSignal
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1900,6 +2404,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
     className: ServerProperty
+  - hash:
+      serializedVersion: 2
+      Hash: 8963690ef6f6b05ce03bfd8b5c26e20c
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: NoiseSettings
   - hash:
       serializedVersion: 2
       Hash: cba6cca6bb3290c4c00d709cf63843db
@@ -1950,6 +2460,12 @@ ScriptsOnlyBuild:
     className: UnityOnPointerDownMessageListener
   - hash:
       serializedVersion: 2
+      Hash: d74df64f7ad9b1e08707353cbab7517d
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
+    className: HealEffect
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Hub
@@ -1960,6 +2476,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnScrollRectValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 7c792393fb82488bd20139dcc5ba26d8
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTransposer
   - hash:
       serializedVersion: 2
       Hash: d9aa52c5a283a9b8a790e55c0dee9ccf
@@ -1990,6 +2512,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Utilities.dll
     namespaceName: Photon.Pun.UtilityScripts
     className: TextToggleIsOnTransition
+  - hash:
+      serializedVersion: 2
+      Hash: eeb356fa33eec10332ebc7e468fecb95
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineShot
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -2028,6 +2556,12 @@ ScriptsOnlyBuild:
     className: FriendItem
   - hash:
       serializedVersion: 2
+      Hash: 204ea02909ea3f738dafe3ff633d2a93
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTrackedDolly
+  - hash:
+      serializedVersion: 2
       Hash: 5ae36aa27e46b25633847fc7cb6b5c87
     assemblyName: PhotonUnityNetworking.Utilities.dll
     namespaceName: Photon.Pun.UtilityScripts
@@ -2044,6 +2578,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnMoveMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 7d5aaa35e19f0134151c31983a4ab430
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Character
+    className: Enemy
   - hash:
       serializedVersion: 2
       Hash: ac1e49249c7034b7330cd0827116d70f
@@ -2082,6 +2622,18 @@ ScriptsOnlyBuild:
     className: AsteroidsGameManager
   - hash:
       serializedVersion: 2
+      Hash: 38bcb4d3f9a1812fd650f92e87a4cf64
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessProfile
+  - hash:
+      serializedVersion: 2
+      Hash: 50c443b12ccc0b475183318b5088bcc5
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessDebug
+  - hash:
+      serializedVersion: 2
       Hash: 0927e41b46e1bd11671f9b5adda4b832
     assemblyName: PhotonUnityNetworking.dll
     namespaceName: Photon.Pun
@@ -2094,10 +2646,22 @@ ScriptsOnlyBuild:
     className: ScrollRect
   - hash:
       serializedVersion: 2
+      Hash: b5eb08b578a2f2d80bb106cbe65ab501
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineStoryboard
+  - hash:
+      serializedVersion: 2
       Hash: 8ae3331b163cc121825eeed3975d6c4d
     assemblyName: Assembly-CSharp.dll
     namespaceName: Photon.Chat.Demo
     className: ChatGui
+  - hash:
+      serializedVersion: 2
+      Hash: 23d669c8bf2983ca4a3df160658318a6
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineStateDrivenCamera
   - hash:
       serializedVersion: 2
       Hash: 4f417ca0a3b31b376eb402726c240bde
@@ -2118,10 +2682,28 @@ ScriptsOnlyBuild:
     className: ConnectionHandler
   - hash:
       serializedVersion: 2
+      Hash: 11d7501d73499c0b84630449d73c35df
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
+    className: InventoryManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8b3d6c2220897533cb9f3e13f96997d6
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
+    className: Damageable
+  - hash:
+      serializedVersion: 2
       Hash: 3ba023cd67d72cace33969ab863e0fd4
     assemblyName: PhotonUnityNetworking.Utilities.dll
     namespaceName: Photon.Pun.UtilityScripts
     className: PhotonStatsGui
+  - hash:
+      serializedVersion: 2
+      Hash: 6bc1ffe50d472672a77f2d9fce097451
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
+    className: KillerTrigger
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -2142,6 +2724,12 @@ ScriptsOnlyBuild:
     className: UnityOnMouseOverMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 726fcf7961cbb4108aa5be5e55b8c8bf
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: ColorGrading
+  - hash:
+      serializedVersion: 2
       Hash: 2574ac7d50617d23cdefe4ad22f5e1ad
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -2154,6 +2742,12 @@ ScriptsOnlyBuild:
     className: LobbyTopPanel
   - hash:
       serializedVersion: 2
+      Hash: 07ac670f6bce015b6d3d0f2c85073bec
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
+    className: MovingPlatformInteractableBehavior
+  - hash:
+      serializedVersion: 2
       Hash: e4aa02db6487ad3aebb8e2f22ee6b699
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Procedural
@@ -2164,6 +2758,18 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.State.dll
     namespaceName: Unity.VisualScripting
     className: StateMachine
+  - hash:
+      serializedVersion: 2
+      Hash: b13de7a0a457cb8e026d4237dc1b5797
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: LensDistortion
+  - hash:
+      serializedVersion: 2
+      Hash: 0243896a46baecd24f25564985aa86c0
+    assemblyName: Dypsloom.CharacterController.dll
+    namespaceName: Dypsloom.DypThePenguin.Scripts.Interactions
+    className: Interactable
   - hash:
       serializedVersion: 2
       Hash: adb92691ab0496634b4241d3545a0010
@@ -2190,6 +2796,12 @@ ScriptsOnlyBuild:
     className: TMP_ScrollbarEventHandler
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Dypsloom.Shared.Utility.dll
+    namespaceName: Dypsloom.Shared.Utility
+    className: SchedulerManager
+  - hash:
+      serializedVersion: 2
       Hash: ec8adfdab7d2b2a2c965e51e87af636f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -2212,6 +2824,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.dll
     namespaceName: Photon.Pun
     className: ServerSettings
+  - hash:
+      serializedVersion: 2
+      Hash: b5c3dbcb94925c8b595ad16a62b44788
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBasicMultiChannelPerlin
   - hash:
       serializedVersion: 2
       Hash: e1e615eaf73e560828f53edc8952e615
@@ -2256,6 +2874,12 @@ ScriptsOnlyBuild:
     className: UnityOnMouseEnterMessageListener
   - hash:
       serializedVersion: 2
+      Hash: a2113831d3323f931007e1b3812dc814
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFollowZoom
+  - hash:
+      serializedVersion: 2
       Hash: e4316571779021b969790af4a77452dd
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Asteroids
@@ -2296,634 +2920,11 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: a648c58913dd6095ce8cfd8be514a4ee
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PhotonControl
-  - hash:
-      serializedVersion: 2
-      Hash: 50c443b12ccc0b475183318b5088bcc5
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: PostProcessDebug
-  - hash:
-      serializedVersion: 2
-      Hash: a53651ee3996fbba20dfe0fce02f0b23
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: AutoExposure
-  - hash:
-      serializedVersion: 2
-      Hash: 7c792393fb82488bd20139dcc5ba26d8
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineTransposer
-  - hash:
-      serializedVersion: 2
-      Hash: c80bc562de10fdbf8b2e9bcb89d80421
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineCollisionImpulseSource
-  - hash:
-      serializedVersion: 2
-      Hash: 62824bb9557c7e987502f2fbd2a26819
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineBrain
-  - hash:
-      serializedVersion: 2
-      Hash: 694d20920c0e41f567e119f7159a3644
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachinePath
-  - hash:
-      serializedVersion: 2
-      Hash: 1e3d6222ff533d213aab144eb854a53b
-    assemblyName: Cinemachine.dll
-    namespaceName: 
-    className: CinemachineTouchInputMapper
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine.PostFX
-    className: CinemachineVolumeSettings
-  - hash:
-      serializedVersion: 2
-      Hash: 380d3ba99e2d836ad5d66bded133d128
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachinePOV
-  - hash:
-      serializedVersion: 2
-      Hash: 6ff1c52123c50b3d73f35cd0e2e65dfd
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineSmoothPath
-  - hash:
-      serializedVersion: 2
-      Hash: b5eb08b578a2f2d80bb106cbe65ab501
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineStoryboard
-  - hash:
-      serializedVersion: 2
-      Hash: 6225eb0973ab0af667bc5f9d1b1b18de
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineCollider
-  - hash:
-      serializedVersion: 2
-      Hash: eeb356fa33eec10332ebc7e468fecb95
-    assemblyName: Cinemachine.dll
-    namespaceName: 
-    className: CinemachineShot
-  - hash:
-      serializedVersion: 2
-      Hash: df21ffd1864551a3e43410f28754a73e
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineConfiner
-  - hash:
-      serializedVersion: 2
-      Hash: dbfb4270852b0008a423a7418d9de4cf
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineSameAsFollowTarget
-  - hash:
-      serializedVersion: 2
-      Hash: 63d7b9b64a11859f416d72ba9a3c3fec
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: ScreenSpaceReflections
-  - hash:
-      serializedVersion: 2
-      Hash: c3d3430df9e3ea95e3e3d587961390fb
-    assemblyName: Cinemachine.dll
-    namespaceName: 
-    className: CinemachineTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 23d669c8bf2983ca4a3df160658318a6
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineStateDrivenCamera
-  - hash:
-      serializedVersion: 2
-      Hash: 15882a52798c275361cd0a3ada984ec5
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineDollyCart
-  - hash:
-      serializedVersion: 2
-      Hash: bd50beb95120324d8c4e8386692b6e82
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineBlenderSettings
-  - hash:
-      serializedVersion: 2
-      Hash: b5c3dbcb94925c8b595ad16a62b44788
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineBasicMultiChannelPerlin
-  - hash:
-      serializedVersion: 2
-      Hash: c8f1a224e0a43adc56c91864de822dd3
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineVirtualCamera
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachinePixelPerfect
-  - hash:
-      serializedVersion: 2
-      Hash: 6dd3dc11942e98c0a809c81f95fc960c
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineExternalCamera
-  - hash:
-      serializedVersion: 2
-      Hash: 2792936179724025482dc04d68a47ca7
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineClearShot
-  - hash:
-      serializedVersion: 2
-      Hash: d0987ce3e9092dbe0fa30d73f333fffa
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: Grain
-  - hash:
-      serializedVersion: 2
-      Hash: dbfb4270852b0008a423a7418d9de4cf
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineHardLockToTarget
-  - hash:
-      serializedVersion: 2
-      Hash: ae20da6493a48ec6a8af7899dcb31507
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineFreeLook
-  - hash:
-      serializedVersion: 2
-      Hash: e78709e690dc77916f3252ffe12b9d1f
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineTriggerAction
-  - hash:
-      serializedVersion: 2
-      Hash: 204ea02909ea3f738dafe3ff633d2a93
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineTrackedDolly
-  - hash:
-      serializedVersion: 2
-      Hash: d5630f96bd5a6a6eed7e1754c3fb8703
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: PostProcessVolume
-  - hash:
-      serializedVersion: 2
-      Hash: c0201dbecd85f700bcdff493a272631d
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineImpulseSource
-  - hash:
-      serializedVersion: 2
-      Hash: d227987243593b32ae57394d06018643
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineFixedSignal
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachinePipeline
-  - hash:
-      serializedVersion: 2
-      Hash: 56df1fa7cea034df9863fe5a24200a32
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineTargetGroup
-  - hash:
-      serializedVersion: 2
-      Hash: b639d97cb780d0d99a2bfb3ad1935732
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineMixingCamera
-  - hash:
-      serializedVersion: 2
-      Hash: a66794b62dbf044668a5f102bb7908c2
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineImpulseListener
-  - hash:
-      serializedVersion: 2
-      Hash: 726fcf7961cbb4108aa5be5e55b8c8bf
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: ColorGrading
-  - hash:
-      serializedVersion: 2
-      Hash: 7e6ed836cbaa230e56d6a2bbae1b9bb5
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: PostProcessEffectSettings
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineHardLookAt
-  - hash:
-      serializedVersion: 2
-      Hash: bd543bad7f9f6262f10595aadb130d22
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineComposer
-  - hash:
-      serializedVersion: 2
-      Hash: 1cdde0c3d8008dfe81d27e4c955d4fe7
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineFramingTransposer
-  - hash:
-      serializedVersion: 2
-      Hash: 8963690ef6f6b05ce03bfd8b5c26e20c
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: NoiseSettings
-  - hash:
-      serializedVersion: 2
-      Hash: af93f9c42e90877a9ba31e37adfd900c
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: MotionBlur
-  - hash:
-      serializedVersion: 2
-      Hash: cbae2ed2d2d53cc8f539e7cb4f29bc1f
-    assemblyName: Cinemachine.dll
-    namespaceName: 
-    className: CinemachineCameraOffset
-  - hash:
-      serializedVersion: 2
-      Hash: e82c0521cdfe8cb6a168ef7208a98d4a
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: Vignette
-  - hash:
-      serializedVersion: 2
-      Hash: a2113831d3323f931007e1b3812dc814
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineFollowZoom
-  - hash:
-      serializedVersion: 2
-      Hash: 4a639215e29265dd99e4fed19e3fa9f4
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineBlendListCamera
-  - hash:
-      serializedVersion: 2
-      Hash: e6d75f1a9bc0c6f7085df0baa077e688
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineGroupComposer
-  - hash:
-      serializedVersion: 2
-      Hash: d4a493bb4307ddafb51da21aff3cd832
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine.PostFX
-    className: CinemachinePostProcessing
-  - hash:
-      serializedVersion: 2
-      Hash: 71f7f12b8d0f4fd73590db8bcb6d453c
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: Bloom
-  - hash:
-      serializedVersion: 2
-      Hash: b13de7a0a457cb8e026d4237dc1b5797
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: LensDistortion
-  - hash:
-      serializedVersion: 2
-      Hash: 2ce2187bbae6f802011f568630bd3d1f
-    assemblyName: Cinemachine.dll
-    namespaceName: Cinemachine
-    className: CinemachineOrbitalTransposer
-  - hash:
-      serializedVersion: 2
-      Hash: f542c1afca5bb4022f91fdda19b8d622
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: DepthOfField
-  - hash:
-      serializedVersion: 2
-      Hash: d6fc8d3165070298511ec776ea575626
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: PostProcessResources
-  - hash:
-      serializedVersion: 2
-      Hash: a1f19ad47d3094e235f21b74dfc423a8
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: PostProcessLayer
-  - hash:
-      serializedVersion: 2
-      Hash: 61b9d9b6f4b6a222dfea8b131b3d3227
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: ChromaticAberration
-  - hash:
-      serializedVersion: 2
-      Hash: 38bcb4d3f9a1812fd650f92e87a4cf64
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: PostProcessProfile
-  - hash:
-      serializedVersion: 2
-      Hash: ac6acd886c54c48c599ab5fed5781ea7
-    assemblyName: Unity.Postprocessing.Runtime.dll
-    namespaceName: UnityEngine.Rendering.PostProcessing
-    className: AmbientOcclusion
-  - hash:
-      serializedVersion: 2
-      Hash: d74df64f7ad9b1e08707353cbab7517d
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
-    className: HealEffect
-  - hash:
-      serializedVersion: 2
-      Hash: 6479cf118ab0140f10311a9f6120bf97
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.UI
-    className: HealthMonitor
-  - hash:
-      serializedVersion: 2
-      Hash: ab55c9e8fd47fab55b6d40d501fa6088
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
-    className: ConsumableItem
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Dypsloom.Shared.Utility.dll
-    namespaceName: Dypsloom.Shared.Utility
-    className: SchedulerManager
-  - hash:
-      serializedVersion: 2
-      Hash: 6bc1ffe50d472672a77f2d9fce097451
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
-    className: KillerTrigger
-  - hash:
-      serializedVersion: 2
-      Hash: e98971c6fb4db4c7eff3d2edde99a3d4
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
-    className: EventOnXEnemyKills
-  - hash:
-      serializedVersion: 2
-      Hash: b8b987acdf834b97f5ec502776f06870
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
-    className: ItemPickup
-  - hash:
-      serializedVersion: 2
-      Hash: 129b4a1556fb5a73c1426060ec61a838
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
-    className: AutomaticProjectileSpawner
-  - hash:
-      serializedVersion: 2
-      Hash: d72f6fdfacb660911e0886ebfc0f0803
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Camera
-    className: Billboard
-  - hash:
-      serializedVersion: 2
-      Hash: 2e4583203d9cb8bcdae62461142b3c3d
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
-    className: EquippableItem
-  - hash:
-      serializedVersion: 2
-      Hash: e17c34ee95db768bde503c753af0042a
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
-    className: SwingAttack
-  - hash:
-      serializedVersion: 2
-      Hash: a514227e57a18c46082fb492a6fb8038
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
-    className: ProjectileSpawner
-  - hash:
-      serializedVersion: 2
-      Hash: a593de54922c209b0bcf841817ce3395
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Character
-    className: CharacterDamageable
-  - hash:
-      serializedVersion: 2
-      Hash: ab42766c335c2b762a6a576707eabeb3
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.UI
-    className: ItemHotbarSlotBox
-  - hash:
-      serializedVersion: 2
-      Hash: e26962eb14fe8a075fcdb67d98dce5a2
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.UI
-    className: ItemHotbar
-  - hash:
-      serializedVersion: 2
-      Hash: c7b04dab0b9fc7999c2dc2290eceda3c
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Character
-    className: Character
-  - hash:
-      serializedVersion: 2
-      Hash: c647f349ebfaa423adfcd7bd84931630
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
-    className: PingPongScale
-  - hash:
-      serializedVersion: 2
-      Hash: 75e15387d76744801fbcf5d8922cef7a
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
-    className: MovingPlatform
-  - hash:
-      serializedVersion: 2
-      Hash: e581360c109616a7080a7ccf7b01fb44
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
-    className: PingPongTranslate
-  - hash:
-      serializedVersion: 2
-      Hash: 96147d5e9b2cc94150b6a58a30e612c4
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
-    className: MultiStateDamageable
-  - hash:
-      serializedVersion: 2
-      Hash: 73e31fb3f2d8b98d7205360041909ece
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
-    className: ThrowAttack
-  - hash:
-      serializedVersion: 2
-      Hash: 23e212efbf8590948f39eb57f46f3177
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
-    className: ItemDefinition
-  - hash:
-      serializedVersion: 2
-      Hash: 4851220ea99c9881154e283da0e85986
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
-    className: EnableDelay
-  - hash:
-      serializedVersion: 2
-      Hash: 07ac670f6bce015b6d3d0f2c85073bec
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
-    className: MovingPlatformInteractableBehavior
-  - hash:
-      serializedVersion: 2
-      Hash: 7d5aaa35e19f0134151c31983a4ab430
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Character
-    className: Enemy
-  - hash:
-      serializedVersion: 2
-      Hash: b7cc936ae80964257cc39ce09934d9f1
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
-    className: NicePenguin
-  - hash:
-      serializedVersion: 2
-      Hash: a1cc011b95a8cdffb9a8c3d68bae12c0
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
-    className: Rotator
-  - hash:
-      serializedVersion: 2
-      Hash: 3d132aabc46d98f0e43057dac32ab056
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
-    className: GameManager
-  - hash:
-      serializedVersion: 2
-      Hash: 66baea36b1575c3add91cdfe3ea7941f
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
-    className: Item
-  - hash:
-      serializedVersion: 2
-      Hash: c465529923e4c5cf1eaceac95af94aa1
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
-    className: TypeDamageable
-  - hash:
-      serializedVersion: 2
-      Hash: 65d85595dbaa2c7515a8ba3872a2aff1
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Camera
-    className: CameraTransition
-  - hash:
-      serializedVersion: 2
-      Hash: 3f351562c1214c9a2673f475488e7023
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Environment
-    className: CrystalInteractableBehavior
-  - hash:
-      serializedVersion: 2
-      Hash: 0e081ebf25d574bbc886dbd0cf647cc0
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
-    className: CharacterInventory
-  - hash:
-      serializedVersion: 2
-      Hash: 0243896a46baecd24f25564985aa86c0
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Interactions
-    className: Interactable
-  - hash:
-      serializedVersion: 2
-      Hash: 11d7501d73499c0b84630449d73c35df
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
-    className: InventoryManager
-  - hash:
-      serializedVersion: 2
-      Hash: 4491cae8fb37804f74731d2f2d5631db
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Game
-    className: ReturnToPoolDelay
-  - hash:
-      serializedVersion: 2
-      Hash: 8b3d6c2220897533cb9f3e13f96997d6
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
-    className: Damageable
-  - hash:
-      serializedVersion: 2
-      Hash: 2a93c1d8330755e700af6b05610419a8
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Items
-    className: Inventory
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Dypsloom.Shared.Utility.dll
-    namespaceName: Dypsloom.Shared.Utility
-    className: PoolManager
-  - hash:
-      serializedVersion: 2
-      Hash: ec74a4195fe91829ec9864c0ecf4dfc8
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Character
-    className: CharacterInteractor
-  - hash:
-      serializedVersion: 2
-      Hash: f2baf96e9b15b9cd0c072f4b83e7e8e3
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Damage
-    className: Projectile
-  - hash:
-      serializedVersion: 2
-      Hash: 14b38543bcf6ed5af8e39067f05696ab
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Camera
-    className: CameraController
-  - hash:
-      serializedVersion: 2
-      Hash: e05dafd9e288f2b08b6824ad7d2e4fb3
-    assemblyName: Dypsloom.CharacterController.dll
-    namespaceName: Dypsloom.DypThePenguin.Scripts.Interactions
-    className: InteractableBehavior
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GameManager
   platform: 19
   scenePathNames:
   - Assets/Scenes/Photon Setting.unity
   - Assets/Scenes/Photon Lobby.unity
   - Assets/Scenes/Photon Room.unity
   - Assets/Scenes/Photon Game.unity
-  playerPath: C:/Users/Administrator/Desktop/Photon-Sever/Photon Server/Photon Server.exe
+  playerPath: C:/Users/Administrator/Desktop/Photon-Sever/Photon Server/Build/Photon
+    Server.exe
