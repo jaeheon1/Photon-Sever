@@ -7,9 +7,17 @@ public class PhotonControl : MonoBehaviourPun
 
     [SerializeField] Camera cam;
 
+    private Animator animator;
+
+
     //isMine : 나 자신만 플레이 하고 싶을때
     void Start()
     {
+
+        animator = GetComponent<Animator>();
+       
+
+
         if (photonView.IsMine)
         {
             Camera.main.gameObject.SetActive(false);
@@ -29,6 +37,13 @@ public class PhotonControl : MonoBehaviourPun
         {
             return;
         }
+        if (Input.GetButtonDown("Fire1"))
+        {
+            animator.SetBool("Attack",true);
+        }
+
+
+
 
         Vector3 dir = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
 
