@@ -15,6 +15,14 @@ public class GameManager : MonoBehaviourPunCallbacks
             
             Quaternion.identity);
     }
-
-  
+    public void ExitRoom()
+    {
+        //현재 룸에서 나가는 함수입니다.
+        PhotonNetwork.LeaveRoom();
+    }
+    //현재 플레이어가 룸에서 나갔다면 호출되는 함수
+  public override void OnLeftRoom()
+    {
+        PhotonNetwork.LoadLevel("Photon Room");
+    }
 }

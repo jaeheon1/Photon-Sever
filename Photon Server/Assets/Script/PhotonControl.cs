@@ -37,6 +37,7 @@ public class PhotonControl : MonoBehaviourPun
         {
             return;
         }
+
         if (Input.GetButtonDown("Fire1"))
         {
             animator.SetTrigger("Attack");
@@ -56,6 +57,22 @@ public class PhotonControl : MonoBehaviourPun
             0
 
             );
+
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.gameObject.name=="Crystal(Clone)")
+        {
+            PhotonView view = other.gameObject.GetComponent<PhotonView>();
+            if(view.IsMine)
+            {
+                //충돌한 물체가 네트워크 객체라면
+                //네트워크 객체를 파괴합니다.
+                PhotonNetwork.Destroy(other.gameObject);
+            }
+
+        }
 
     }
 }
