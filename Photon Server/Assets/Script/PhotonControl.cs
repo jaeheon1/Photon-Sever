@@ -1,6 +1,10 @@
 using Photon.Pun;
 using UnityEngine;
-public class PhotonControl : MonoBehaviourPun
+using PlayFab.ClientModels;
+using PlayFab;
+using System.Collections.Generic;
+
+public class PhotonControl : MonoBehaviourPun, IPunObservable
 {
     [SerializeField] float speed = 5.0f;
     [SerializeField] float angleSpeed;
@@ -8,7 +12,7 @@ public class PhotonControl : MonoBehaviourPun
     [SerializeField] Camera cam;
 
     private Animator animator;
-
+    public int score;
 
     //isMine : 나 자신만 플레이 하고 싶을때
     void Start()
@@ -64,6 +68,12 @@ public class PhotonControl : MonoBehaviourPun
     {
         if(other.gameObject.name=="Crystal(Clone)")
         {
+            if (photonView.IsMine)
+            {
+                score++;
+            }
+
+            PlayFabDataSvae();
             PhotonView view = other.gameObject.GetComponent<PhotonView>();
             if(view.IsMine)
             {
@@ -73,6 +83,43 @@ public class PhotonControl : MonoBehaviourPun
             }
 
         }
+
+    }
+
+    public void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
+    {
+        //로컬 오브젝트라면 쓰기 부분이 실행 됩ㄴ디ㅏ. 
+        if (stream.IsWriting)
+        {
+            //네트워크를 통해 score 값을 보냅니다.
+            stream.SendNext(score);
+        }
+        else
+        {//원격 오브젝트 라면 읽기 부분이 실행됩니다.
+            score = (int)stream.ReceiveNext();
+        }
+    }
+
+    public void PlayFabDataSvae()
+    {
+        PlayFabClientAPI.UpdatePlayerStatistics
+            (
+              new UpdatePlayerStatisticsRequest
+              {
+                  Statistics = new List<StatisticUpdate>
+                  {
+                      new StatisticUpdate
+                      {
+                          StatisticName="Score",Value=score
+                      },
+                  }
+              },
+
+              (result) => { Debug.Log("값 저장 성공"); },
+              (error) => { Debug.Log("값 저장 실패"); }
+
+            ) ;
+
 
     }
 }

@@ -1953,6 +1953,7 @@ MonoBehaviour:
   speed: 5
   angleSpeed: 100
   cam: {fileID: 4248741132075880124}
+  score: 0
 --- !u!114 &4248741130460520612
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1988,6 +1989,7 @@ MonoBehaviour:
   OwnershipTransfer: 0
   observableSearch: 2
   ObservedComponents:
+  - {fileID: 4248741130460520614}
   - {fileID: 4248741130460520612}
   - {fileID: 6786187397990881184}
   sceneViewId: 0
