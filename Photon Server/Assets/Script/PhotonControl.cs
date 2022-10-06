@@ -73,7 +73,7 @@ public class PhotonControl : MonoBehaviourPun, IPunObservable
                 score++;
             }
 
-            PlayFabDataSvae();
+            PlayFabDataSave();
             PhotonView view = other.gameObject.GetComponent<PhotonView>();
             if(view.IsMine)
             {
@@ -100,7 +100,7 @@ public class PhotonControl : MonoBehaviourPun, IPunObservable
         }
     }
 
-    public void PlayFabDataSvae()
+    public void PlayFabDataSave()
     {
         PlayFabClientAPI.UpdatePlayerStatistics
             (
@@ -115,8 +115,8 @@ public class PhotonControl : MonoBehaviourPun, IPunObservable
                   }
               },
 
-              (result) => { Debug.Log("값 저장 성공"); },
-              (error) => { Debug.Log("값 저장 실패"); }
+              (result) => { UiManager.instance.scoreText.text = "Current Crystal:" + score.ToString(); },
+              (error) => { UiManager.instance.scoreText.text = "No value Saved"; }
 
             ) ;
 
