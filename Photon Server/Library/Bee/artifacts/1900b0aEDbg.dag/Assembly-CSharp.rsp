@@ -443,6 +443,7 @@
 "Assets/Script/PopUp.cs"
 "Assets/Script/RoomManager.cs"
 "Assets/Script/UiManager.cs"
+"Assets/Script/WebLoad.cs"
 "Assets/SlimUI/Tech Menu/Scripts/ToolTip.cs"
 "Assets/SlimUI/Tech Menu/Scripts/UIElementDragger.cs"
 "Assets/SlimUI/Tech Menu/Scripts/UIManagerTech.cs"

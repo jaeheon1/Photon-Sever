@@ -1,20 +1,16 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
 using Photon.Realtime;
 
 public class ConnectSever : MonoBehaviourPunCallbacks
 {
+    private string serverName;
+   
   
-    void Start()
+   public void SelectLobby(string text)
     {
-        
-    }
-
-  
-   public void SelectLobby()
-    {
+        //Challeger Server
+        serverName = text;
         PhotonNetwork.ConnectUsingSettings();
 
 
@@ -25,6 +21,6 @@ public class ConnectSever : MonoBehaviourPunCallbacks
     }
     public override void OnConnectedToMaster()
     {
-        PhotonNetwork.JoinLobby(new TypedLobby("Count", LobbyType.Default));
+        PhotonNetwork.JoinLobby(new TypedLobby(serverName, LobbyType.Default));
     }
 }
