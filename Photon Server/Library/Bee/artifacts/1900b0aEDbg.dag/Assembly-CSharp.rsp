@@ -436,6 +436,7 @@
 "Assets/Script/ConnectSever.cs"
 "Assets/Script/CreateCrystal.cs"
 "Assets/Script/CreateCrystar.cs"
+"Assets/Script/DataManager.cs"
 "Assets/Script/GameManager.cs"
 "Assets/Script/Information.cs"
 "Assets/Script/PhotonControl.cs"
